@@ -117,7 +117,6 @@ JSP는 용량문제로 코드만 첨부합니다.
 
 PPT는 용량문제로 분할 첨부합니다.
 
-* Terraform 소스코드
 * Dockerfile
 * yaml
 * JSP
