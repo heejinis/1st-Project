@@ -96,6 +96,8 @@
 
 
 ## 🧱 아키텍처
+![아키텍처2](https://github.com/user-attachments/assets/51b21d45-36d7-4d28-a90c-713449831930)
+
 ![아키텍처](https://github.com/user-attachments/assets/2122fb1f-e767-4385-91d3-a7d9a15db1fb)
 
 ## 🌐 PAGE
