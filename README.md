@@ -96,7 +96,7 @@
 
 
 ## 🧱 아키텍처
-![전체시방서](https://github.com/user-attachments/assets/2122fb1f-e767-4385-91d3-a7d9a15db1f)
+![아키텍처](https://github.com/user-attachments/assets/2122fb1f-e767-4385-91d3-a7d9a15db1fb)
 
 ## 🌐 PAGE
 * 메인
@@ -108,10 +108,6 @@
 * 주문
 ![3 주문1](https://github.com/user-attachments/assets/9c4a7c46-41e6-4cb0-acd4-373d6564938c)
 ![3 주문2](https://github.com/user-attachments/assets/d6695958-955d-4fe2-8cfb-202460f32e42)
-
-* 예약
-![reservation1](https://github.com/user-attachments/assets/d68cb207-5ace-45cf-858b-d4600972db0a)
-
 
 
 ## 📦 산출물
